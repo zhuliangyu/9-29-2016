@@ -1,0 +1,32 @@
+.top-left {
+
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    /*float: left;*/
+}
+
+.top-right {
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    /*float:right;*/
+}
+
+.pic{
+    float:left;
+
+}
+.nav{
+
+    float: right;
+}
+
+.clear{
+    clear:both;
+}
+
+body{
+    width:50%;
+    margin-left:150px;
+}

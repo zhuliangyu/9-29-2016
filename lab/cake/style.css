@@ -1,0 +1,28 @@
+.outer{
+    background-color: grey;
+    width:800px;
+
+}
+
+.round{
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: maroon;
+    border-width: medium;
+}
+
+h1{
+    text-align: center;
+    color: orangered;
+}
+
+.bottom{
+    margin:20px;
+    background-color: red;
+    padding: 10px;
+
+}
+
+img{
+    align-content: center;
+}
